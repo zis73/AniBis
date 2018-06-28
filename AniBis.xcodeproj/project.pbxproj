@@ -24,7 +24,8 @@
 		3F2A78B720E4C982006FEEB7 /* Japan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78B620E4C982006FEEB7 /* Japan.jpeg */; };
 		3F2A78BB20E4D8BF006FEEB7 /* круг.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78BA20E4D8BF006FEEB7 /* круг.png */; };
 		3F2A78BF20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */; };
-		3F2A78C120E4DFCC006FEEB7 /* Naruto_Uzumaki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */; };
+		3F2A78C520E4F2FB006FEEB7 /* render__naruto_by_naruhinabrazil-d4norui (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78C420E4F2FA006FEEB7 /* render__naruto_by_naruhinabrazil-d4norui (1).png */; };
+		3F2A78C720E4F42D006FEEB7 /* Снимок экрана 2018-06-28 в 13.46.26.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78C620E4F42D006FEEB7 /* Снимок экрана 2018-06-28 в 13.46.26.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,7 +48,8 @@
 		3F2A78B620E4C982006FEEB7 /* Japan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Japan.jpeg; sourceTree = "<group>"; };
 		3F2A78BA20E4D8BF006FEEB7 /* круг.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "круг.png"; sourceTree = "<group>"; };
 		3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-28 в 12.16.50.png"; sourceTree = "<group>"; };
-		3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Naruto_Uzumaki.jpg; sourceTree = "<group>"; };
+		3F2A78C420E4F2FA006FEEB7 /* render__naruto_by_naruhinabrazil-d4norui (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "render__naruto_by_naruhinabrazil-d4norui (1).png"; sourceTree = "<group>"; };
+		3F2A78C620E4F42D006FEEB7 /* Снимок экрана 2018-06-28 в 13.46.26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-28 в 13.46.26.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +98,8 @@
 				3F2A78B620E4C982006FEEB7 /* Japan.jpeg */,
 				3F2A78BA20E4D8BF006FEEB7 /* круг.png */,
 				3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */,
-				3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */,
+				3F2A78C420E4F2FA006FEEB7 /* render__naruto_by_naruhinabrazil-d4norui (1).png */,
+				3F2A78C620E4F42D006FEEB7 /* Снимок экрана 2018-06-28 в 13.46.26.png */,
 				3F2A789B20E38161006FEEB7 /* LaunchScreen.storyboard */,
 				3F2A789E20E38161006FEEB7 /* Info.plist */,
 			);
@@ -165,6 +168,8 @@
 				3F2A789D20E38161006FEEB7 /* LaunchScreen.storyboard in Resources */,
 				3F2A78A520E38318006FEEB7 /* ltEwYloXG_I.jpg in Resources */,
 				3F2A78B720E4C982006FEEB7 /* Japan.jpeg in Resources */,
+				3F2A78C720E4F42D006FEEB7 /* Снимок экрана 2018-06-28 в 13.46.26.png in Resources */,
+				3F2A78C520E4F2FB006FEEB7 /* render__naruto_by_naruhinabrazil-d4norui (1).png in Resources */,
 				3F2A78B520E4C97E006FEEB7 /* England.jpg in Resources */,
 				3F2A78AB20E4C789006FEEB7 /* 1269.jpg in Resources */,
 				3F2A78A720E38544006FEEB7 /* cogwheel_80413.png in Resources */,
@@ -176,7 +181,6 @@
 				3F2A78AD20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg in Resources */,
 				3F2A78BF20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png in Resources */,
 				3F2A78A920E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png in Resources */,
-				3F2A78C120E4DFCC006FEEB7 /* Naruto_Uzumaki.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
