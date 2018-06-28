@@ -12,6 +12,19 @@
 		3F2A789820E3815E006FEEB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A789620E3815E006FEEB7 /* Main.storyboard */; };
 		3F2A789A20E38161006FEEB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A789920E38161006FEEB7 /* Assets.xcassets */; };
 		3F2A789D20E38161006FEEB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A789B20E38161006FEEB7 /* LaunchScreen.storyboard */; };
+		3F2A78A520E38318006FEEB7 /* ltEwYloXG_I.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78A420E38317006FEEB7 /* ltEwYloXG_I.jpg */; };
+		3F2A78A720E38544006FEEB7 /* cogwheel_80413.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78A620E38544006FEEB7 /* cogwheel_80413.png */; };
+		3F2A78A920E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78A820E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png */; };
+		3F2A78AB20E4C789006FEEB7 /* 1269.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78AA20E4C789006FEEB7 /* 1269.jpg */; };
+		3F2A78AD20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78AC20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg */; };
+		3F2A78AF20E4C974006FEEB7 /* Spanish.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78AE20E4C974006FEEB7 /* Spanish.jpg */; };
+		3F2A78B120E4C977006FEEB7 /* Russia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78B020E4C977006FEEB7 /* Russia.jpg */; };
+		3F2A78B320E4C97B006FEEB7 /* Germany.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78B220E4C97B006FEEB7 /* Germany.jpg */; };
+		3F2A78B520E4C97E006FEEB7 /* England.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78B420E4C97E006FEEB7 /* England.jpg */; };
+		3F2A78B720E4C982006FEEB7 /* Japan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78B620E4C982006FEEB7 /* Japan.jpeg */; };
+		3F2A78BB20E4D8BF006FEEB7 /* круг.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78BA20E4D8BF006FEEB7 /* круг.png */; };
+		3F2A78BF20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */; };
+		3F2A78C120E4DFCC006FEEB7 /* Naruto_Uzumaki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		3F2A789920E38161006FEEB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F2A789C20E38161006FEEB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F2A789E20E38161006FEEB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F2A78A420E38317006FEEB7 /* ltEwYloXG_I.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ltEwYloXG_I.jpg; sourceTree = "<group>"; };
+		3F2A78A620E38544006FEEB7 /* cogwheel_80413.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cogwheel_80413.png; sourceTree = "<group>"; };
+		3F2A78A820E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "melody-musical-notes-music-staff-music-note-clipart-11.png"; sourceTree = "<group>"; };
+		3F2A78AA20E4C789006FEEB7 /* 1269.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1269.jpg; sourceTree = "<group>"; };
+		3F2A78AC20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "no-translate-detected_318-43868.jpg"; sourceTree = "<group>"; };
+		3F2A78AE20E4C974006FEEB7 /* Spanish.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Spanish.jpg; sourceTree = "<group>"; };
+		3F2A78B020E4C977006FEEB7 /* Russia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Russia.jpg; sourceTree = "<group>"; };
+		3F2A78B220E4C97B006FEEB7 /* Germany.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Germany.jpg; sourceTree = "<group>"; };
+		3F2A78B420E4C97E006FEEB7 /* England.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = England.jpg; sourceTree = "<group>"; };
+		3F2A78B620E4C982006FEEB7 /* Japan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Japan.jpeg; sourceTree = "<group>"; };
+		3F2A78BA20E4D8BF006FEEB7 /* круг.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "круг.png"; sourceTree = "<group>"; };
+		3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-28 в 12.16.50.png"; sourceTree = "<group>"; };
+		3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Naruto_Uzumaki.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +84,19 @@
 				3F2A789420E3815E006FEEB7 /* ViewController.swift */,
 				3F2A789620E3815E006FEEB7 /* Main.storyboard */,
 				3F2A789920E38161006FEEB7 /* Assets.xcassets */,
+				3F2A78A420E38317006FEEB7 /* ltEwYloXG_I.jpg */,
+				3F2A78A620E38544006FEEB7 /* cogwheel_80413.png */,
+				3F2A78A820E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png */,
+				3F2A78AA20E4C789006FEEB7 /* 1269.jpg */,
+				3F2A78AC20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg */,
+				3F2A78AE20E4C974006FEEB7 /* Spanish.jpg */,
+				3F2A78B020E4C977006FEEB7 /* Russia.jpg */,
+				3F2A78B220E4C97B006FEEB7 /* Germany.jpg */,
+				3F2A78B420E4C97E006FEEB7 /* England.jpg */,
+				3F2A78B620E4C982006FEEB7 /* Japan.jpeg */,
+				3F2A78BA20E4D8BF006FEEB7 /* круг.png */,
+				3F2A78BE20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png */,
+				3F2A78C020E4DFCB006FEEB7 /* Naruto_Uzumaki.jpg */,
 				3F2A789B20E38161006FEEB7 /* LaunchScreen.storyboard */,
 				3F2A789E20E38161006FEEB7 /* Info.plist */,
 			);
@@ -122,9 +161,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F2A78B120E4C977006FEEB7 /* Russia.jpg in Resources */,
 				3F2A789D20E38161006FEEB7 /* LaunchScreen.storyboard in Resources */,
+				3F2A78A520E38318006FEEB7 /* ltEwYloXG_I.jpg in Resources */,
+				3F2A78B720E4C982006FEEB7 /* Japan.jpeg in Resources */,
+				3F2A78B520E4C97E006FEEB7 /* England.jpg in Resources */,
+				3F2A78AB20E4C789006FEEB7 /* 1269.jpg in Resources */,
+				3F2A78A720E38544006FEEB7 /* cogwheel_80413.png in Resources */,
+				3F2A78BB20E4D8BF006FEEB7 /* круг.png in Resources */,
+				3F2A78AF20E4C974006FEEB7 /* Spanish.jpg in Resources */,
 				3F2A789A20E38161006FEEB7 /* Assets.xcassets in Resources */,
 				3F2A789820E3815E006FEEB7 /* Main.storyboard in Resources */,
+				3F2A78B320E4C97B006FEEB7 /* Germany.jpg in Resources */,
+				3F2A78AD20E4C824006FEEB7 /* no-translate-detected_318-43868.jpg in Resources */,
+				3F2A78BF20E4DF37006FEEB7 /* Снимок экрана 2018-06-28 в 12.16.50.png in Resources */,
+				3F2A78A920E4C785006FEEB7 /* melody-musical-notes-music-staff-music-note-clipart-11.png in Resources */,
+				3F2A78C120E4DFCC006FEEB7 /* Naruto_Uzumaki.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
