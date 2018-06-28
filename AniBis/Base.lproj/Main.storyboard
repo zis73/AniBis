@@ -43,17 +43,6 @@
                                 <color key="textColor" red="1" green="0.39301165269999999" blue="0.92049253490000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qdH-Eb-hEy">
-                                <rect key="frame" x="128" y="393" width="118" height="60"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
-                                <state key="normal" title="START">
-                                    <color key="titleColor" red="1" green="0.39301165269999999" blue="0.92049253490000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <segue destination="3tZ-u0-xDv" kind="show" id="Ruc-3t-3zo"/>
-                                </connections>
-                            </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cogwheel_80413.png" translatesAutoresizingMaskIntoConstraints="NO" id="Qki-lC-emV">
                                 <rect key="frame" x="308" y="42" width="47" height="39"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -66,6 +55,17 @@
                                 </state>
                                 <connections>
                                     <segue destination="u6I-8A-N5G" kind="show" id="HWn-3Q-Tnd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qdH-Eb-hEy">
+                                <rect key="frame" x="100" y="393" width="175" height="84"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="60"/>
+                                <state key="normal" title="START">
+                                    <color key="titleColor" red="1" green="0.39301165269999999" blue="0.92049253490000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="3tZ-u0-xDv" kind="show" id="Ruc-3t-3zo"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -596,8 +596,8 @@
         <image name="круг.png" width="699" height="741"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="CYg-H1-ijI"/>
+        <segue reference="eZj-dB-cN1"/>
         <segue reference="Ruc-3t-3zo"/>
-        <segue reference="RRz-QY-r8T"/>
+        <segue reference="dsG-rF-5rQ"/>
     </inferredMetricsTieBreakers>
 </document>
